@@ -1,4 +1,4 @@
-# A new version of this project can be found on the following [URL](https://github.com/dimimikadze/orca).
+⚠️ A new version of this project can be found on the [following URL](https://github.com/dimimikadze/orca). ⚠️ 
 
 # Create Social Network ![npm](https://img.shields.io/npm/dm/create-social-network-old) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
