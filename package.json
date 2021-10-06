@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimimikadze/create-social-network.git"
+    "url": "https://github.com/dimimikadze/create-social-network-old.git"
   },
   "bugs": {
-    "url": "https://github.com/dimimikadze/create-social-network/issues"
+    "url": "https://github.com/dimimikadze/create-social-network-old/issues"
   },
   "engines": {
     "node": ">=8.10"

@@ -1,17 +1,17 @@
 {
   "name": "create-social-network",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "CLI for Create Social Network.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimimikadze/create-social-network.git",
+    "url": "https://github.com/dimimikadze/create-social-network-old.git",
     "directory": "lib"
   },
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/dimimikadze/create-social-network/issues"
+    "url": "https://github.com/dimimikadze/create-social-network-old/issues"
   },
   "files": [
     "index.js",

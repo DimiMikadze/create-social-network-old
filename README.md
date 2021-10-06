@@ -1,4 +1,6 @@
-# Create Social Network ![npm](https://img.shields.io/npm/dm/create-social-network) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+# A new version of this project can be found on the following [URL](https://github.com/dimimikadze/orca).
+
+# Create Social Network ![npm](https://img.shields.io/npm/dm/create-social-network-old) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
 Create Social Network is a educational project. The main idea is to demonstrate how one can build a large scalable project with Javascript. However you get the core functionality of social network by running one command and then you can build more on top of that.
 
@@ -128,14 +130,14 @@ The page will automatically reload if you make changes to the code.
 
 In development mode we are starting `api` and `frontend` servers with one command, but we need to deploy them separately.
 
-[API Deployment](https://github.com/dimimikadze/create-social-network/tree/master/api#api-deployment-to-heroku)
+[API Deployment](https://github.com/dimimikadze/create-social-network-old/tree/master/api#api-deployment-to-heroku)
 
-[Frontend Deployment](https://github.com/dimimikadze/create-social-network/tree/master/frontend#frontend-deployment-to-netlify)
+[Frontend Deployment](https://github.com/dimimikadze/create-social-network-old/tree/master/frontend#frontend-deployment-to-netlify)
 
 ## Contributing
 
-Please read our [CONTRIBUTING.md](https://github.com/dimimikadze/create-social-network/blob/master/CONTRIBUTING.md) before submitting a Pull Request to the project.
+Please read our [CONTRIBUTING.md](https://github.com/dimimikadze/create-social-network-old/blob/master/CONTRIBUTING.md) before submitting a Pull Request to the project.
 
 ## License
 
-[MIT License](https://github.com/dimimikadze/create-social-network/blob/master/LICENSE.md) Copyright (c) 2019 [Dimi Mikadze](https://dimimikadze.com/)
+[MIT License](https://github.com/dimimikadze/create-social-network-old/blob/master/LICENSE.md) Copyright (c) 2019 [Dimi Mikadze](https://dimimikadze.com/)

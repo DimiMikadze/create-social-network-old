@@ -20,21 +20,21 @@ frontend
 lib
 ```
 
-#### [api](https://github.com/dimimikadze/create-social-network/tree/master/api)
+#### [api](https://github.com/dimimikadze/create-social-network-old/tree/master/api)
 
 This package contains API for Create Social Network using Node, GraphQL and MongoDB.
 
-#### [frontend](https://github.com/dimimikadze/create-social-network/tree/master/frontend)
+#### [frontend](https://github.com/dimimikadze/create-social-network-old/tree/master/frontend)
 
 Is a React frontend for Create Social Network.
 
-#### [lib](https://github.com/dimimikadze/create-social-network/tree/master/lib)
+#### [lib](https://github.com/dimimikadze/create-social-network-old/tree/master/lib)
 
 This package includes Node.js command line script that is published to NPM as a `create-social-network` that helps users to install the app with one command.
 
 ## Development Workflow
 
-1. Clone the repo with git clone `https://github.com/dimimikadze/create-social-network.git`
+1. Clone the repo with git clone `https://github.com/dimimikadze/create-social-network-old.git`
 2. Run `yarn` in the root folder to install dependencies.
 3. and then run `yarn start`
 
@@ -42,8 +42,8 @@ This package includes Node.js command line script that is published to NPM as a 
 
 Before submitting an issue you need to make sure:
 
-- You have already searched for related [issues](https://github.com/dimimikadze/create-social-network/issues), and found none open (if you found a related closed issue, please link to it from your post).
+- You have already searched for related [issues](https://github.com/dimimikadze/create-social-network-old/issues), and found none open (if you found a related closed issue, please link to it from your post).
 - Your issue title is concise and on-topic.
 - You can and do provide steps to reproduce your issue.
-- Make sure the [issue template](https://github.com/dimimikadze/create-social-network/tree/master/.github/ISSUE_TEMPLATE) is respected.
+- Make sure the [issue template](https://github.com/dimimikadze/create-social-network-old/tree/master/.github/ISSUE_TEMPLATE) is respected.
 - Make sure your issue body is readable and [well formated](https://guides.github.com/features/mastering-markdown/).
